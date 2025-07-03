@@ -1,3 +1,4 @@
+![logo](https://github.com/eshukla15/Eshan_Shukla/blob/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Eshan Shukla</h1>
 <h3 align="center">A Passionate Engineer proficient in Python and MERN, with growing
 expertise in cybersecurity.</h3>
