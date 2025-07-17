@@ -14,8 +14,6 @@ expertise in cybersecurity.</h3>
 
 - 📫 How to reach me **eshukla15@gmail.com**
 
-- 📄 Know about my experiences [https://eshan-shukla.tiiny.site/](https://eshan-shukla.tiiny.site/)
-
 - ⚡ Fun fact **I like to run and play chess**
 
 <h3 align="left">Connect with me:</h3>
