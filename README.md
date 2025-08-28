@@ -36,6 +36,6 @@ expertise in cybersecurity.</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eshukla15&" alt="eshukla15" /></p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/TORNADO_MIAU?theme=dark&font=Port%20Lligat%20Sans&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Eshan_Shukla?theme=dark&font=Port%20Lligat%20Sans&ext=heatmap)
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Eshan_Shukla&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/Eshan_Shukla)
