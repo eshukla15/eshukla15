@@ -6,11 +6,9 @@ expertise in cybersecurity.</h3>
 
 - 🔭 I’m currently working on [Self Driving Car](-)
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently exploring **Cyber Security and Networking**
 
-- My projects [ZugZwang AI](https://github.com/eshukla15/zugZwangAI)
-
-- 👨‍💻 All of my projects are available at [(Update)]((Update))
+- 👨‍💻 All of my projects are available at my [Porfolio](https://eshan-shukla.vercel.app)
 
 - 📫 How to reach me **eshukla15@gmail.com**
 
