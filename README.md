@@ -8,7 +8,7 @@ expertise in cybersecurity.</h3>
 
 - 🌱 I’m currently exploring **Cyber Security and Networking**
 
-- 👨‍💻 All of my projects are available at my [Porfolio](https://eshan-shukla.vercel.app)
+- 👨‍💻 All of my projects are available at my [Website](https://eshan-shukla.vercel.app)
 
 - 📫 How to reach me **eshukla15@gmail.com**
 
