@@ -12,7 +12,7 @@ expertise in cybersecurity.</h3>
 
 - 📫 How to reach me **eshukla15@gmail.com**
 
-- ⚡ Fun fact **I like to run(https://strava.app.link/L1zWqWs9qXb) and play chess(https://www.chess.com/member/tornadofr15)**
+- ⚡ Fun fact **I like to [run](https://strava.app.link/L1zWqWs9qXb) and play [chess](https://www.chess.com/member/tornadofr15)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
