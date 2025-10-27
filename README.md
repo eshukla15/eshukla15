@@ -33,5 +33,5 @@ expertise in cybersecurity.</h3>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Eshan_Shukla?theme=dark&font=Port%20Lligat%20Sans&ext=heatmap)
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Eshan_Shukla&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/Eshan_Shukla)
-[![CodeChef Stats](https://codechef-readme-stats.onrender.com/eshan_shukla?v=1)](https://www.codechef.com/users/eshan_shukla)
+
 
