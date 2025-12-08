@@ -26,9 +26,7 @@ expertise in cybersecurity.</h3>
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eshukla15&show_icons=true&locale=en" alt="eshukla15" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eshukla15&" alt="eshukla15" /></p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Eshan_Shukla?theme=dark&font=Port%20Lligat%20Sans&ext=heatmap)
 
