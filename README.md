@@ -14,6 +14,8 @@ expertise in cybersecurity.</h3>
 
 - ⚡ Fun fact **I like to [run](https://strava.app.link/L1zWqWs9qXb) and play [chess](https://www.chess.com/member/tornadofr15)**
 
+  
+
   ### 🖥 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E44D26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -48,6 +50,8 @@ expertise in cybersecurity.</h3>
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
+
 
 
 <h3 align="left">Connect with me:</h3>
