@@ -1,6 +1,6 @@
 ![logo](https://github.com/eshukla15/Eshan_Shukla/blob/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Eshan Shukla</h1>
-<h3 align="center">A Passionate Engineer proficient in Python and MERN, with growing
+<h3 align="center">A Passionate Engineer proficient in FullStack(Python/JS), with growing
 expertise in cybersecurity.</h3>
 
 
@@ -8,7 +8,7 @@ expertise in cybersecurity.</h3>
 
 - 🌱 I’m currently exploring **Cyber Security and Networking**
 
-- 👨‍💻 All of my projects are available at my [Website](https://eshan-shukla.vercel.app)
+- 👨‍💻 All of my projects are available at my [Website](https://eshanshukla.in)
 
 - 📫 How to reach me **eshukla15@gmail.com**
 
