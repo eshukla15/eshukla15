@@ -60,13 +60,10 @@ expertise in cybersecurity.</h3>
 <a href="https://linkedin.com/in/eshan-shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eshan-shukla" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22515498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22515498" height="30" width="40" /></a>
 <a href="https://kaggle.com/eshan_hehe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eshan_hehe" height="30" width="40" /></a>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="67fc71ad-e0d5-4a3d-aa99-78830b9c63bd" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <a href="https://www.codechef.com/users/eshan_shukla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="eshan_shukla" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/eshan_shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="eshan_shukla" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Eshan_Shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tornado_miau" height="30" width="40" /></a>
 </p>
-
-
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Eshan_Shukla?theme=dark&font=Port%20Lligat%20Sans&ext=heatmap)
