@@ -4,9 +4,9 @@
 expertise in cybersecurity.</h3>
 
 
-- 🔭 I’m currently working on [Self Driving Car](https://github.com/eshukla15/GrandTheftAutomation-NeuralCity)
+- 🔭 I’m currently working on [Buddy Boost](https://github.com/eshukla15/buddyBoost)
 
-- 🌱 I’m currently exploring **Cyber Security and Networking**
+- 🌱 I’m currently exploring **Backend and Golang**
 
 - 👨‍💻 All of my projects are available at my [Website](https://eshanshukla.in)
 
@@ -34,6 +34,7 @@ expertise in cybersecurity.</h3>
 
 ### 🗄 Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
 
 ### 🔐 Security & Networking
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
