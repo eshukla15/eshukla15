@@ -34,7 +34,8 @@ expertise in cybersecurity.</h3>
 
 ### 🗄 Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)
 
 ### 🔐 Security & Networking
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
